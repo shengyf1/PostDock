@@ -45,7 +45,7 @@ PostgreSQL集群具有适用于任何云和Docker环境（Amazon, Google Cloud, 
 * 监视导出器的所有组件(节点，平衡器，备份)
 
 ### 盒子里有什么
-[此项目](https://github.com/paunin/postgres-docker-cluster) includes:
+[此项目](https://github.com/paunin/postgres-docker-cluster)包括:
 * 用于`postgresql`集群和备份系统的Dockerfile
     * [postgresql](./src/Postgres-latest.Dockerfile)
     * [pgpool](./src/Pgpool-latest.Dockerfile)
